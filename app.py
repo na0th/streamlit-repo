@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 st.title("Avocado Prices dashboard")
 st.markdown('''
-테스트용 데시보드를 만들어봅시다.
+테스트용 Cgeon.
 Data source: [kaggle](https://www.kaggle.com/datasets/timmate/avocado-prices-2020)
 ''')
 avocado = pd.read_csv("avocado.csv")
